@@ -1,4 +1,6 @@
-## Conversor de moedas Java.
+## Conversor de moedas.
+
+Obs: este foi o primeiro desafio da trilha de Java do programa ONE, porém como não tenho interesse em Java a intenção é desenvolver este desafio em JavaScript futuramente...
 
 Foi solicitado a criação de um conversor de moeda utilizando a linguagem Java. As características solicitadas por nosso cliente são as seguintes:
 
